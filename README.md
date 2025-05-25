@@ -1,8 +1,8 @@
 <h2 align="left">🔥 My GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuranez&show_icons=true&theme=radical" alt="GitHub Stats" width="90%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kuranez&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kuranez&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kuranez&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="51%"/>
 </p>
 
 ---
