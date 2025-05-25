@@ -1,13 +1,13 @@
-<h3 align="left">🔥 My GitHub Stats</h3>
+<h2 align="left">🔥 My GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuranez&show_icons=true&theme=radical" alt="GitHub Stats" width="80%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kuranez&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="80%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kuranez&show_icons=true&theme=radical" alt="GitHub Stats" width="90%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kuranez&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="90%"/>
 </p>
 
 ---
 
-<h3 align="left">🧰 Tech Stack & Tools</h3>
+<h2 align="left">🧰 Tech Stack & Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
