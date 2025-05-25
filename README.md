@@ -1,4 +1,12 @@
-<h3 align="center">🧰 Tech Stack & Tools</h3>
+<h3 align="left">🔥 My GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kuranez&show_icons=true&theme=radical" alt="GitHub Stats"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=kuranez&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+---
+
+<h3 align="left">🧰 Tech Stack & Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
@@ -9,24 +17,10 @@
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dash-000000?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wolfram-DD1100?style=for-the-badge&logo=wolfram&logoColor=white"/>
 </p>
 
 ---
-
-<h3 align="center">🔥 My GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuranez&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kuranez&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</p>
-
----
-
-
 
 <!--
 **kuranez/kuranez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
