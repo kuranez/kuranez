@@ -23,13 +23,13 @@
 <h2 align="left">🔥 My GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuranez&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kuranez&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="51%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kuranez&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kuranez&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="51%"/>
 </p>
 
 ---
   
-[![kuranez's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kuranez&theme=react-dark&height=300&grid=false&days=30&custom_title=Contribution%20Activity%20Over%2030%20Days)](https://github.com/kuranez/github-readme-activity-graph)
+[![kuranez's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kuranez&theme=react-dark&height=300&grid=false&hide_border=true&days=30&custom_title=Contribution%20Activity%20Over%2030%20Days)](https://github.com/kuranez/github-readme-activity-graph)
 
 ---
 
