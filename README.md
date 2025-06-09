@@ -1,12 +1,3 @@
-<h2 align="left">🔥 My GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuranez&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kuranez&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="51%"/>
-</p>
-
----
-
 <h2 align="left">🧰 Tech Stack & Tools</h3>
 
 <p align="center">
@@ -29,6 +20,19 @@
 
 ---
 
+<h2 align="left">🔥 My GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kuranez&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kuranez&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="51%"/>
+</p>
+
+---
+  
+[![kuranez's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kuranez&theme=tokyo-night&height=300&grid=false&days=30&custom_title=Contribution%20Activity%20Over%2030%20Days)](https://github.com/kuranez/github-readme-activity-graph)
+
+---
+
 <!--
 **kuranez/kuranez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,7 +44,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 ### 📬 Kontakt
@@ -57,5 +60,5 @@ Here are some ideas to get you started:
 - 🧪 [Projektname 3](https://github.com/DEINUSERNAME/PROJEKT3) – Datenanalyse mit Pandas und Matplotlib
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuranez&layout=compact&theme=radical)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=kuranez)](https://github.com/kuranez/github-profile-trophy)
 -->
