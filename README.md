@@ -29,7 +29,7 @@
 
 ---
   
-[![kuranez's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kuranez&theme=tokyo-night&height=300&grid=false&days=30&custom_title=Contribution%20Activity%20Over%2030%20Days)](https://github.com/kuranez/github-readme-activity-graph)
+[![kuranez's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kuranez&theme=react-dark&height=300&grid=false&days=30&custom_title=Contribution%20Activity%20Over%2030%20Days)](https://github.com/kuranez/github-readme-activity-graph)
 
 ---
 
