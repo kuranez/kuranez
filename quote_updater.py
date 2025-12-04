@@ -33,7 +33,14 @@ with open(quotes_file, "r", encoding="utf-8") as file:
 author = lines[0].strip().replace("- ", "")
 
 # Rest are quotes (skip empty lines)
-quotes = [line.strip().strip('„"') for line in lines[1:] if line.strip() and not line.strip().startswith("-")]
+# Remove all types of quotation marks: „ " " ' '
+quotes = []
+for line in lines[1:]:
+    line = line.strip()
+    if line and not line.startswith("-"):
+        # Remove all quotation mark types
+        cleaned = line.strip('„"""\'\'')
+        quotes.append(cleaned)
 
 if not quotes:
     print(f"No quotes found for {author}")
@@ -60,8 +67,8 @@ if icon_path_relative:
 html_banner += f'''
       </td>
       <td>
-        <p style="font-size: 18px; color: #58A6FF; margin: 0;">"{quote}"</p>
-        <p style="font-size: 14px; color: #8B949E; margin: 5px 0 0 0;">- {author}</p>
+        <p style="font-size: 18px; color: #58A6FF; margin: 0;">{quote}</p>
+        <p style="font-size: 14px; color: #8B949E; margin: 5px 0 0 0;">— {author}</p>
       </td>
     </tr>
   </table>
