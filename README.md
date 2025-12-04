@@ -50,33 +50,3 @@
   </table>
 </div>
 <!--QUOTE_END-->
-
-<!--
-**kuranez/kuranez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-
-### 📬 Kontakt
-
-<p align="left">
-  <a href="mailto:DEINEMAIL@domain.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/DEINLINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
-### 📌 Projekte zum Ansehen
-
-- 🔭 [Projektname 1](https://github.com/DEINUSERNAME/PROJEKT1) – Web-App für XY
-- 📊 [Projektname 2](https://github.com/DEINUSERNAME/PROJEKT2) – Visualisierung mit Plotly/Dash
-- 🧪 [Projektname 3](https://github.com/DEINUSERNAME/PROJEKT3) – Datenanalyse mit Pandas und Matplotlib
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuranez&layout=compact&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=kuranez)](https://github.com/kuranez/github-profile-trophy)
--->
