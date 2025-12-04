@@ -39,7 +39,7 @@ for line in lines[1:]:
     line = line.strip()
     if line and not line.startswith("-"):
         # Remove all quotation mark types
-        cleaned = line.strip('„"""\'\'')
+        cleaned = line.strip('„"""“\'\'')
         quotes.append(cleaned)
 
 if not quotes:
