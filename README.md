@@ -33,7 +33,7 @@
 
 ---
 
-# Daily Quote
+## Daily Quote
 
 <!--QUOTE_START-->
 <div align="center">
