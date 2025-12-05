@@ -41,4 +41,8 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add quote_updater.py .github/workflows/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Sync quote_updater.py and workflows from daily-quote" && git push)
+          if ! git diff --quiet || ! git diff --staged --quiet; then
+            git commit -m "Sync quote_updater.py and workflows from daily-quote"
+            git pull --rebase origin main
+            git push
+          fi
