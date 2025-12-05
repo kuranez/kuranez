@@ -6,9 +6,10 @@ import glob
 project_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Configuration: Select franchises
+# OPTIONS = ["all", ["south_park"], ["spongebob"], ["mass_effect"]]
 # Set to "all" to use all franchises, or list specific ones: ["south_park", "spongebob"]
 # Single franchise: ["mass_effect"]
-SELECTED_FRANCHISES = "all"
+SELECTED_FRANCHISES = ["all"]
 
 # Construct paths
 collection_dir = os.path.join(project_dir, "collection")
