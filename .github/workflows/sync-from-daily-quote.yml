@@ -17,7 +17,7 @@ jobs:
       - name: Checkout kuranez repo
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}  # Use PAT with workflow permissions
           path: kuranez
       
       - name: Checkout daily-quote repo
@@ -31,9 +31,9 @@ jobs:
           # Copy quote_updater.py
           cp daily-quote/quote_updater.py kuranez/quote_updater.py
           
-          # Copy .github/workflows directory (excluding this sync workflow)
+          # Copy .github/workflows directory - only copy update-quote.yml, not sync workflow
           mkdir -p kuranez/.github/workflows
-          cp daily-quote/.github/workflows/*.yml kuranez/.github/workflows/
+          cp daily-quote/.github/workflows/update-quote.yml kuranez/.github/workflows/
       
       - name: Commit and push if changed
         run: |
