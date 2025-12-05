@@ -6,8 +6,7 @@ import glob
 project_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Configuration: Select franchises
-# OPTIONS = ["all", ["south_park"], ["spongebob"], ["mass_effect"]]
-# Set to "all" to use all franchises, or list specific ones: ["south_park", "spongebob"]
+# Set to ["all"] to use all franchises, or list specific ones: ["south_park", "spongebob"]
 # Single franchise: ["mass_effect"]
 SELECTED_FRANCHISES = ["all"]
 
@@ -16,7 +15,7 @@ collection_dir = os.path.join(project_dir, "collection")
 readme_file = os.path.join(project_dir, "README.md")
 
 # Find character directories based on selection
-if SELECTED_FRANCHISES == "all":
+if SELECTED_FRANCHISES == ["all"] or "all" in SELECTED_FRANCHISES:
     # Find all franchise directories
     franchise_dirs = [d for d in glob.glob(os.path.join(collection_dir, "*")) if os.path.isdir(d)]
     # Find all character directories across all franchises
@@ -32,7 +31,7 @@ else:
             character_dirs.extend([d for d in glob.glob(os.path.join(franchise_dir, "*")) if os.path.isdir(d)])
 
 if not character_dirs:
-    if SELECTED_FRANCHISES == "all":
+    if SELECTED_FRANCHISES == ["all"] or "all" in SELECTED_FRANCHISES:
         print("No character directories found in any franchise")
     else:
         print(f"No character directories found in {', '.join(SELECTED_FRANCHISES)}")
