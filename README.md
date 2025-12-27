@@ -40,11 +40,11 @@
   <table>
     <tr>
       <td>
-        <img src="collection/spongebob/spongebob/icon.png" alt="Spongebob" width="100" height="100">
+        <img src="collection/spongebob/squidward/icon.png" alt="Squidward" width="100" height="100">
       </td>
       <td>
-        <p style="font-size: 18px; color: #58A6FF; margin: 0;">I’m not a baby – I have my drink in a sippy cup!</p>
-        <p style="font-size: 14px; color: #8B949E; margin: 5px 0 0 0;">— Spongebob</p>
+        <p style="font-size: 18px; color: #58A6FF; margin: 0;">I'm surrounded by idiots.</p>
+        <p style="font-size: 14px; color: #8B949E; margin: 5px 0 0 0;">— Squidward</p>
       </td>
     </tr>
   </table>
