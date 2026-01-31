@@ -40,11 +40,11 @@
   <table>
     <tr>
       <td>
-        <img src="collection/south_park/randy_marsh/icon.png" alt="Randy Marsh" width="100" height="100">
+        <img src="collection/mass_effect/reapers/icon.png" alt="Reapers" width="100" height="100">
       </td>
       <td>
-        <p style="font-size: 18px; color: #58A6FF; margin: 0;">Sharon! Sharon, come quick! I think it’s... I think it’s a ghost!</p>
-        <p style="font-size: 14px; color: #8B949E; margin: 5px 0 0 0;">— Randy Marsh</p>
+        <p style="font-size: 18px; color: #58A6FF; margin: 0;">We are Legion.</p>
+        <p style="font-size: 14px; color: #8B949E; margin: 5px 0 0 0;">— Reapers</p>
       </td>
     </tr>
   </table>
