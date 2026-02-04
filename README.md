@@ -40,11 +40,11 @@
   <table>
     <tr>
       <td>
-        <img src="collection/spongebob/squidward/icon.png" alt="Squidward" width="100" height="100">
+        <img src="collection/south_park/randy_marsh/icon.png" alt="Randy Marsh" width="100" height="100">
       </td>
       <td>
-        <p style="font-size: 18px; color: #58A6FF; margin: 0;">I hate my life.</p>
-        <p style="font-size: 14px; color: #8B949E; margin: 5px 0 0 0;">— Squidward</p>
+        <p style="font-size: 18px; color: #58A6FF; margin: 0;">Tegridy, people. All we have left is Tegridy.</p>
+        <p style="font-size: 14px; color: #8B949E; margin: 5px 0 0 0;">— Randy Marsh</p>
       </td>
     </tr>
   </table>
