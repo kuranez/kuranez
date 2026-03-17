@@ -43,7 +43,7 @@
         <img src="collection/south_park/eric_cartman/icon.png" alt="Eric Cartman" width="100" height="100">
       </td>
       <td>
-        <p style="font-size: 18px; color: #58A6FF; margin: 0;">Chocolate? Did somebody say chocolate?!</p>
+        <p style="font-size: 18px; color: #58A6FF; margin: 0;">I hate hippies. I hate them so much.</p>
         <p style="font-size: 14px; color: #8B949E; margin: 5px 0 0 0;">— Eric Cartman</p>
       </td>
     </tr>
