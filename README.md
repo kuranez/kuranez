@@ -40,11 +40,11 @@
   <table>
     <tr>
       <td>
-        <img src="collection/mass_effect/reapers/icon.png" alt="Reapers" width="100" height="100">
+        <img src="collection/spongebob/squidward/icon.png" alt="Squidward" width="100" height="100">
       </td>
       <td>
-        <p style="font-size: 18px; color: #58A6FF; margin: 0;">Assuming direct control.</p>
-        <p style="font-size: 14px; color: #8B949E; margin: 5px 0 0 0;">— Reapers</p>
+        <p style="font-size: 18px; color: #58A6FF; margin: 0;">That’s not art – that’s garbage with a frame!</p>
+        <p style="font-size: 14px; color: #8B949E; margin: 5px 0 0 0;">— Squidward</p>
       </td>
     </tr>
   </table>
