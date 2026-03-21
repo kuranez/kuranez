@@ -40,11 +40,11 @@
   <table>
     <tr>
       <td>
-        <img src="collection/spongebob/squidward/icon.png" alt="Squidward" width="100" height="100">
+        <img src="collection/mass_effect/commander_shepard/icon.png" alt="Commander Shepard" width="100" height="100">
       </td>
       <td>
-        <p style="font-size: 18px; color: #58A6FF; margin: 0;">That’s not art – that’s garbage with a frame!</p>
-        <p style="font-size: 14px; color: #8B949E; margin: 5px 0 0 0;">— Squidward</p>
+        <p style="font-size: 18px; color: #58A6FF; margin: 0;">War is hell. Sometimes you’re the hammer. Sometimes you’re the nail.</p>
+        <p style="font-size: 14px; color: #8B949E; margin: 5px 0 0 0;">— Commander Shepard</p>
       </td>
     </tr>
   </table>
