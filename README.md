@@ -40,11 +40,11 @@
   <table>
     <tr>
       <td>
-        <img src="collection/spongebob/patrick/icon.png" alt="Patrick" width="100" height="100">
+        <img src="collection/mass_effect/commander_shepard/icon.png" alt="Commander Shepard" width="100" height="100">
       </td>
       <td>
-        <p style="font-size: 18px; color: #58A6FF; margin: 0;">Dumber than a bucket of clams!</p>
-        <p style="font-size: 14px; color: #8B949E; margin: 5px 0 0 0;">— Patrick</p>
+        <p style="font-size: 18px; color: #58A6FF; margin: 0;">Did someone say 'party'? Because I’m already here.</p>
+        <p style="font-size: 14px; color: #8B949E; margin: 5px 0 0 0;">— Commander Shepard</p>
       </td>
     </tr>
   </table>
