@@ -22,10 +22,23 @@
 
 <h2 align="left">🔥 My GitHub Stats</h3>
 
+<table align="center" style="border: none;">
+<tr style="border: none;">
+<td style="border: none;">
+<img
+  src="./profile/stats.svg"
+  alt="GitHub Stats"
+/>
+</td>
 
-  ![Stats](./profile/stats.svg)
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kuranez&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
-
+<td style="border: none;">
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=kuranez&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+</td>
+</tr>
+</table>
 
 ---
   
