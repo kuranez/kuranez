@@ -1,7 +1,8 @@
 <h2 align="left">🧰 Tech Stack & Tools</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+<table align="center" style="border: none;">
+  <tr>
+  <td><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -16,7 +17,9 @@
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dash-000000?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-</p>
+  </td>
+  </tr>
+</table>
 
 ---
 
@@ -41,8 +44,16 @@
 </table>
 
 ---
-  
-[![kuranez's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kuranez&theme=react-dark&color=38BDAE&title_color=D83B7D&line=70A5FD&point=D83B7D&bg_color=1A1B27&area=true&area_color=BF91F3&height=300&grid=false&hide_border=true&days=30&custom_title=Contribution%20Activity%20Over%2030%20Days)](https://github.com/kuranez/github-readme-activity-graph)
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/kuranez/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuranez&theme=react-dark&color=38BDAE&title_color=D83B7D&line=70A5FD&point=D83B7D&bg_color=1A1B27&area=true&area_color=BF91F3&height=300&grid=false&hide_border=true&days=30&custom_title=Contribution%20Activity%20Over%2030%20Days" alt="kuranez's github activity graph"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
