@@ -67,11 +67,11 @@
   <table>
     <tr>
       <td>
-        <img src="collection/south_park/randy_marsh/icon.png" alt="Randy Marsh" width="100" height="100">
+        <img src="collection/spongebob/patrick/icon.png" alt="Patrick" width="100" height="100">
       </td>
       <td>
-        <p style="font-size: 18px; color: #58A6FF; margin: 0;">Stan, this is important. It’s about beer.</p>
-        <p style="font-size: 14px; color: #8B949E; margin: 5px 0 0 0;">— Randy Marsh</p>
+        <p style="font-size: 18px; color: #58A6FF; margin: 0;">The quickest way to lose a friend is to tell them you like them.</p>
+        <p style="font-size: 14px; color: #8B949E; margin: 5px 0 0 0;">— Patrick</p>
       </td>
     </tr>
   </table>
