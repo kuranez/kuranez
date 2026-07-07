@@ -70,7 +70,7 @@
         <img src="collection/mass_effect/reapers/icon.png" alt="Reapers" width="100" height="100">
       </td>
       <td>
-        <p style="font-size: 18px; color: #58A6FF; margin: 0;">Organics are a disease. We are the cure.</p>
+        <p style="font-size: 18px; color: #58A6FF; margin: 0;">We are Legion.</p>
         <p style="font-size: 14px; color: #8B949E; margin: 5px 0 0 0;">— Reapers</p>
       </td>
     </tr>
