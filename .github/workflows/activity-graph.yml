@@ -1,0 +1,43 @@
+name: Update GitHub Activity Graph
+
+on:
+  schedule:
+    # Every day at 00:00 UTC
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: kuranez
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: profile/activity-graph.svg
+          options: >-
+            theme=react-dark&
+            color=38BDAE&
+            title_color=D83B7D&
+            line=70A5FD&
+            point=D83B7D&
+            bg_color=1A1B27&
+            area=true&
+            area_color=BF91F3&
+            height=300&
+            grid=false&
+            hide_border=true&
+            days=30&
+            custom_title=Contribution%20Activity%20Over%2030%20Days
+
+      - name: Commit activity graph
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: update activity graph"
+          file_pattern: profile/activity-graph.svg
