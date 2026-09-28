@@ -50,10 +50,11 @@
 
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/kuranez/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuranez&theme=react-dark&color=38BDAE&title_color=D83B7D&line=70A5FD&point=D83B7D&bg_color=1A1B27&area=true&area_color=BF91F3&height=300&grid=false&hide_border=true&days=30&custom_title=Contribution%20Activity%20Over%2030%20Days" alt="kuranez's github activity graph"/>
-      </a>
+    <td style="border: none;">
+      <img
+        src="./profile/activity-graph.svg"
+        alt="GitHub Activity Graph"
+      />
     </td>
   </tr>
 </table>
