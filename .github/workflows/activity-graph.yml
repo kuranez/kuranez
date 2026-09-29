@@ -21,31 +21,11 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Checkout activity graph repository
-        uses: actions/checkout@v4
-        with:
-          repository: kuranez/github-readme-activity-graph
-          path: activity-graph
-          fetch-depth: 0
-
-      - name: Verify profile Git repository
-        working-directory: profile
+      - name: Generate activity graph SVG
         run: |
-          pwd
-          git status
-          git log -1
-
-      - name: Run activity graph generator
-        working-directory: activity-graph
-        run: |
-          # Replace this command with the actual command
-          # provided by github-readme-activity-graph.
-          ./generate.sh
-
-      - name: Copy generated files
-        run: |
-          # Adjust these paths to match the generator's output.
-          cp -r activity-graph/dist/* profile/
+          curl --fail --silent --show-error --location \
+            "https://github-readme-activity-graph.vercel.app/graph?username=kuranez&theme=github-compact" \
+            --output profile/activity-graph.svg
 
       - name: Commit and push changes
         working-directory: profile
