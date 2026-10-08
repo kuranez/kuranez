@@ -48,19 +48,6 @@
 
 ---
 
-<table>
-  <tr>
-    <td style="border: none;">
-      <img
-        src="./profile/activity-graph.svg"
-        alt="GitHub Activity Graph"
-      />
-    </td>
-  </tr>
-</table>
-
----
-
 ## 💬 Daily Quote
 
 <!--QUOTE_START-->
